@@ -1,0 +1,15 @@
+# Compiled program files
+*.exe
+todo
+todo.exe
+*.o
+*.out
+
+# Runtime task data (created by the program)
+tasks.txt
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
